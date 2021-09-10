@@ -328,6 +328,11 @@
   line-height: 51px;
   font-size: 36px;
 }
+.feynman__link:hover{
+  opacity: 70%;
+  font-size: 40px;
+  transition: 0.2s;
+}
 .feynman__image {
   width: 867px;
   height: 637px;
