@@ -1,0 +1,11 @@
+.resources__logo{
+    height: 38px;
+    width: 270px;
+    display: flex;
+    justify-content: center;
+  }
+.resources__logo:hover{
+    opacity: 70%;
+    transform: scale(1.2);
+    transition: 0.2s;
+  }
