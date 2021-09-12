@@ -4,3 +4,7 @@
     font-size: 18px;
     font-weight: normal;
 }
+.header__link:hover {
+    opacity: 70%;
+    transition: 0.2s;
+}

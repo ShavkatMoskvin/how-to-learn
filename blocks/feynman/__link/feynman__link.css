@@ -9,6 +9,5 @@
   }
 .feynman__link:hover{
     opacity: 70%;
-    font-size: 40px;
     transition: 0.2s;
   }
